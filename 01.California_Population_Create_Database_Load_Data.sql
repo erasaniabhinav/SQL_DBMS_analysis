@@ -27,7 +27,4 @@ SELECT * FROM pop_proj
 LIMIT 10;
 
 
-4) quit the server >> quit
-5) connect to server again >> mysql --local_infile=1 -u root -p
-6) run the load sql statement.
-*/
+
